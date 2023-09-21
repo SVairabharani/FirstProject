@@ -7,3 +7,7 @@ Avoid the problem of linear features,so we use  brancing
 project        /                                      |
 Start ----->feature 1---->feature 1---->Fixing bug--->Merge features
             commit 1      commit 2
+
+
+for updating
+git commit -am "updated"

@@ -1,1 +1,9 @@
 this is new for learning purpose
+Avoid the problem of linear features,so we use  brancing
+.
+
+                commit 1       commit
+                feature 2---->feature 2   ------------|
+project        /                                      |
+Start ----->feature 1---->feature 1---->Fixing bug--->Merge features
+            commit 1      commit 2
